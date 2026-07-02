@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9982015015",
+    "project_id": "nlc-app-c5294",
+    "storage_bucket": "nlc-app-c5294.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9982015015:android:1fffcd0a674e2a8b8a4002",
+        "android_client_info": {
+          "package_name": "com.example.nlcpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxvSo_TqcFdVA9cWptNppLzarF0Qa2Wqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
